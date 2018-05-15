@@ -1,4 +1,10 @@
 
+What's new in version 2.0.2.0_alpha
+
+* added basic collapse-all from upstream rejected commit b7f721
+  courtesy to Krishna Chaitanya, B <bkchaitan94@gmail.com>
+  current hot-key is E to toggle collapse-all
+
 What's new in version 2.0.2
 
 * Mac OS X: stop trying when task_for_pid fails for a process,
