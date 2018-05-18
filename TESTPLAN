@@ -55,9 +55,7 @@ Main screen:
 
       <l> - enter LSOF screen.
 
-      <m>, <n>, <o> - do nothing.
-
-      <p> - hide/show program path.
+      <m>, <n>, <o>, <p> - do nothing.
 
       <F10>, <q> - quit program.
 
@@ -75,9 +73,7 @@ Main screen:
       
       <F2>, <C>, <S> - enter Setup screen.
 
-      <D> - do nothing.
-
-      <E> - Expand or collapse all trees.
+      <D>, <E> - do nothing.
       
       <F> - follow process.
 
